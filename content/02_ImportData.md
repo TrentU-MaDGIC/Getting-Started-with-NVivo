@@ -11,7 +11,7 @@ permalink: /content/WorkshopContent.html
 **Note:** If applicable, ensure your file and recovery locations comply with ethics requirements.
 
 1.	Launch NVivo software
-2.	Review resources on the landing page. (Note- Free transcription and cloud projects not covered/subscribed to by Trent)
+2.	Review resources on the landing page. (Note: Free transcription and cloud projects are not covered/subscribed to by Trent)
 3.	Click “New Project”.
     
     ![](images/01_Project.png)
